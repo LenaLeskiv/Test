@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92bdc19d-a63d-4a31-a98b-c64cfbd20725" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Test_task2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test_task.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test_task.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test_task.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="867">
@@ -37,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test_task2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test_task2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test_task2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -300,6 +299,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Test_task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test_task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
@@ -307,13 +313,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
